@@ -1,0 +1,2 @@
+# MCSC
+Minecraft Server Controller
